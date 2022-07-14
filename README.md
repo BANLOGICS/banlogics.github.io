@@ -1,6 +1,4 @@
 # banlogics.github.io
-<html>
-<body>
-Hello click here
-</body>
-</html>
+
+Hello this is the home page pf banlogics.
+
