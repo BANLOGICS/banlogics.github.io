@@ -1,0 +1,10 @@
+body{  font-size: 18px;margin: 10;font-family: Arial, Helvetica, sans-serif;}
+p { display: block; margin: 1em;}
+.search, .nv{float: left;background-color: #000;border: none;color: white;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;}
+.nv:hover {background-color: #444;}
+.nv{padding: 15px 32px;}
+.search{padding: 9.5px 32px;}
+.gr{color:green; display: inline-block;}
+.re{color:red; display: inline-block;}
+.link{text-decoration:none; display: inline-block;}
+.btn {position: relative;background-color: #222222;border: none;font-size: 20px;color: white;padding: 20px;text-align: center;-webkit-transition-duration: 0.4s;transition-duration: 0.4s;text-decoration: none;overflow: hidden;cursor: pointer;border-radius: 22px;style: vertical-align:middle; width: 100%;} .btn:after {content: "";background: #90EE90;display: block;position: absolute;padding-top: 300%;padding-left: 350%;margin-left: -20px!important;margin-top: -120%;opacity: 0;transition: all 0.8s}.btn:active:after {padding: 0;margin: 0;opacity: 1;transition: 0s}
